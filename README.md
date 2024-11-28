@@ -1,5 +1,5 @@
 # 💫 About Me:
-TARUN KUMAR M A
+<b>TARUN KUMAR M A</b>
 <br>
 I am computer science student studiying in Rajarajeshwari college of engineering Bangaluru.
 
