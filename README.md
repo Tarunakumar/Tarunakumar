@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student
+I am computer science student studiying in Rajarajeshwari college of engineering Bangaluru.
 
 
 ## 🌐 Socials:
